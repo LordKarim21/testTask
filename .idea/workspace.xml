@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17f828e4-feed-48f0-b9fe-764b85cd06dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/.env.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/.idea/FlaskChat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/database/DB/app.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/database/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/templates/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/app/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlaskChat/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/database/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/database/csv/customer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/database/csv/employee.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/database/csv/order.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/database/csv/store.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/database/csv/visit.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/database/db.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/database/insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/app/database/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectFastAPI/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoFastAPI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoFastAPI/.idea/ToDoFastAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoFastAPI/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoFastAPI/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoFastAPI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoFastAPI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoFastAPI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoFastAPI/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/.idea/scanner_wifi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/connect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/q.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scanner_wifi/wifi_scan_results.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/.idea/store.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../store/StoreApi" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2UcN6xkcqywoZxBZZZWVeL39pHD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17f828e4-feed-48f0-b9fe-764b85cd06dd" name="Changes" comment="" />
+      <created>1693234737009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693234737009</updated>
+    </task>
+    <servers />
+  </component>
+</project>
